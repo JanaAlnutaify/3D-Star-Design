@@ -16,6 +16,4 @@ A 3D five-pointed star keychain designed using **Onshape** as part of the Smart 
 
 ### Isometric View
 ![Isometric View](star1.png)
----
-**Designed & Engineered by:** Jana 🎓  
-**Summer Training Program:** Smart Methods 2026 🚀[cite: 1]
+
