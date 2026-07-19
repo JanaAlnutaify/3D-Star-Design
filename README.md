@@ -12,8 +12,8 @@ A 3D five-pointed star keychain designed using **Onshape** as part of the Smart 
 ## 📷 Design Views
 
 ### Top View
-![Top View](star.png)
+![Top View](Star.png)
 
 ### Isometric View
-![Isometric View](star1.png)
+![Isometric View](Star1.png)
 
